@@ -2,6 +2,7 @@ export const title = document.getElementById('title');
 export const author = document.getElementById('author');
 export let newBooks = document.querySelector('.new-books-container');
 
+/* display each book */ 
 export const displayBooks = (storage) => {
   storage.reverse().forEach((book, index) => {
     if (book.title && book.title !== title.value) {
