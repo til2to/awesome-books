@@ -21,8 +21,6 @@
 
 # 📖 [milestone-books] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[milestone-books]** is a basic website that allows users to add/remove books from a list
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -34,8 +32,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Plain_JS_with_objects]**
 - **[Plain_JS_with_classes]**
 - **[Create_a_complete_website_with_navigation]**
@@ -45,8 +41,6 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](Not yet available)
 
@@ -67,14 +61,6 @@ To get a local copy up and running, follow these steps.
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
-
-👤 **Aubin SIMPEZE**
-
-- GitHub: [@githubhandle](https://github.com/aubinleyoung)
-- Twitter: [@twitterhandle](https://twitter.com/SimpezeAubin)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aubin-simpeze-7a5b7a220/)
 
 👤 **Owusu Dennis**
 

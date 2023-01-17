@@ -1,8 +1,8 @@
-export const title = document.getElementById('title');
-export const author = document.getElementById('author');
-export let newBooks = document.querySelector('.new-books-container');
+export const title = document.getElementById("title");
+export const author = document.getElementById("author");
+export let newBooks = document.querySelector(".new-books-container");
 
-/* display each book */ 
+/* display each book */
 export const displayBooks = (storage) => {
   storage.reverse().forEach((book, index) => {
     if (book.title && book.title !== title.value) {
@@ -17,4 +17,4 @@ export const displayBooks = (storage) => {
       newBooks.innerHTML += displayBook;
     }
   });
-}
+};
